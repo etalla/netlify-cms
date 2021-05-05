@@ -1,7 +1,7 @@
 ---
-title: Hugo
 group: Guides
 weight: 20
+title: Hugo
 ---
 ## Introduction
 
@@ -142,6 +142,10 @@ Back in your [Netlify dashboard](https://app.netlify.com/):
 2. Once enabled, select **Settings and usage**, and scroll down to **Registration preferences**. You can set this to either **Open** or **Invite only**, but usually **Invite only** is your best bet for a personal site.
 3. If you don't want to create an account, or would like to use an external provider such as GitHub or Google, you can enable those services under **External providers**.
 4. Scroll down to **Services** and click **Enable Git Gateway**.
+
+### Invite yourself as a user
+
+Before accessing the CMS, check that your user account is created. In your Netlify dashboard, click on **Identity** in the top level menu (https://app.netlify.com/sites/\[your-site-name]/identity). There, check whether your email is listed as a user. If not, click on the button that says **Invite users** and send yourself an invite. Make sure to open it to confirm your email.
 
 ### Accessing the CMS
 
